@@ -61,7 +61,7 @@ Copy
 Edit
 import os
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
-🧠 How It Works
+#🧠 How It Works
 1. Query Filtering:
 Uses a predefined list of common medical terms and optionally processes terms from the UMLS Metathesaurus.
 
@@ -79,7 +79,7 @@ Text is extracted using PyMuPDF.
 
 Users can then ask questions about the uploaded content for tailored answers.
 
-📁 Project Structure
+# 📁 Project Structure
 bash
 Copy
 Edit
@@ -109,7 +109,7 @@ Consider storing them using .env files and python-dotenv.
 
 🧬 Genomic data-based drug recommendations
 
-👩‍⚕️ Built With
+# 👩‍⚕️ Built With
 Streamlit
 
 Google Generative AI
@@ -119,7 +119,7 @@ PyMuPDF
 UMLS Metathesaurus (NIH)
 
 📬 Contact
-Author: [Your Name]
-Email: [your-email@example.com]
-GitHub: @yourusername
+Author: Dia Mehak
+Email: diamehak96@gmail.com
+GitHub: @diamehak
 
