@@ -3,7 +3,7 @@ A conversational AI chatbot built with Streamlit and Google Gemini-Pro that prov
 
 ⚠️ Disclaimer: This chatbot is intended for educational and informational purposes only. It is not a replacement for professional medical advice, diagnosis, or treatment.
 
-💡 Features
+# 💡 Features
 🔍 Medical Query Analysis
 Understands and responds to a wide range of medical-related queries.
 
@@ -36,11 +36,12 @@ Questions about uploaded medical reports
 
 🚀 Getting Started
 Prerequisites
+
 Ensure you have the following Python libraries installed:
 
 bash
-Copy
-Edit
+ Copy
+ Edit
 pip install streamlit google-generativeai pymupdf requests
 Run the App
 bash
