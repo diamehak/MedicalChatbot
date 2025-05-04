@@ -3,7 +3,7 @@ import google.generativeai as gen_ai
 import fitz  # PyMuPDF
 import requests
 import re
-GOOGLE_API_KEY = "AIzaSyBC1_wGEV_l2i5E6XDc9_4vxSoKq0MPO5A"
+GOOGLE_API_KEY = "YOUR_API_KEY_HERE"
 
 # Set up Google Gemini-Pro AI model
 gen_ai.configure(api_key=GOOGLE_API_KEY)
